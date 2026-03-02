@@ -14,6 +14,11 @@
             "rating": "5",
             "url": "https://zenanalytics.online"
         },
+        "leela-farm": {
+            "url": "https://web.facebook.com/canh.toan.nguyen.2101/",
+            "name": "Leela Farm",
+            "description": "A farm that applied natural farming techniques to restore the soil"
+        },
         "crypto-pulse": {
             "name": "Crypto Pulse",
             "description": "Check realtime crypto (Bitcoin, Etherium, Sonala ...) price. Track 3000+ crypto-currencies and gold price, fear and greed index.",
