@@ -1,0 +1,25 @@
+{
+    "product": {
+        "zen-virtual-piano": {
+            "name": "Zen Virtual Piano",
+            "description": "Virtual piano with realistic sound and touch response",
+            "userCount": "600",
+            "rating": "5",
+            "url": "https://zenpiano.art"
+        },
+        "zen-analytics-pixel-tracker": {
+            "name": "Zen Analytics Pixel Tracker",
+            "description": "",
+            "userCount": "600",
+            "rating": "5",
+            "url": "https://zenanalytics.online"
+        },
+        "crypto-pulse": {
+            "name": "Crypto Pulse",
+            "description": "",
+            "userCount": "20",
+            "rating": "5",
+            "url": "https://get-crypto-pulse.web.app"
+        }
+    }
+}
