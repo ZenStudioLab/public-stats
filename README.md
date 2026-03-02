@@ -20,7 +20,7 @@ You can fetch the statistics directly from the GitHub repository using the Raw U
 
 ```javascript
 async function fetchStats() {
-  const response = await fetch('https://raw.githubusercontent.com/[USER]/public-stats/main/index.json');
+  const response = await fetch('https://raw.githubusercontent.com/ZenStudioLab/public-stats/main/index.json');
   const data = await response.json();
   console.log(data.product['zen-virtual-piano'].userCount);
 }
