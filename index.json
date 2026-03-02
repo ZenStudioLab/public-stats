@@ -5,26 +5,30 @@
             "description": "Full 61-Key QWERTY Keyboard, Low-Latency Audio, 10+ Instruments, Recording, and Sheet Music Practice.",
             "userCount": "600",
             "rating": "5",
-            "url": "https://zenpiano.art"
+            "url": "https://zenpiano.art",
+            "imageUrl": "https://zenpiano.art/_next/image?url=%2Fimages%2Ficon.webp&w=48&q=75"
         },
         "zen-analytics-pixel-tracker": {
             "name": "Zen Analytics Pixel Tracker",
             "description": "Debug 20+ analytics(Google Tag Manager dataLayer, Google analytics, FB, TW, TT+). Inspect events, capture sessions & export",
             "userCount": "600",
             "rating": "5",
-            "url": "https://zenanalytics.online"
+            "url": "https://zenanalytics.online",
+            "imageUrl": "https://zenanalytics.online/images/128.svg"
         },
         "leela-farm": {
             "url": "https://web.facebook.com/canh.toan.nguyen.2101/",
             "name": "Leela Farm",
-            "description": "A farm that applied natural farming techniques to restore the soil"
+            "description": "A farm that applied natural farming techniques to restore the soil",
+            "imageUrl: "https://scontent.fdad3-3.fna.fbcdn.net/v/t39.30808-1/431711676_10211580741911190_4384624940099398706_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeEfPuDyBk536TNc3RJ4RJP3L1uFrIvRjWwvW4Wsi9GNbF2KuvFl8xnr2EEkTDOLTqcM4OU9f0RUZxR0zub8d9mq&_nc_ohc=LhTT9zDLN_MQ7kNvwEc2rAs&_nc_oc=AdkF5SZyt7dLuzGHQJWNqWO2NvyZBrJBnwkCNs0MpaA23ChTglL1Cj6wIEE0gs7KZcCYtc21syVDIqrw35k7u9me&_nc_zt=24&_nc_ht=scontent.fdad3-3.fna&_nc_gid=aRIVgxAZ2Rw2xI65WujyTQ&_nc_ss=8&oh=00_AfzDAQzfpU_veNZTlPRfhLf3Ehp5o2hvK23Mes-Lv17Jxg&oe=69AB46E3"
         },
         "crypto-pulse": {
             "name": "Crypto Pulse",
             "description": "Check realtime crypto (Bitcoin, Etherium, Sonala ...) price. Track 3000+ crypto-currencies and gold price, fear and greed index.",
             "userCount": "20",
             "rating": "5",
-            "url": "https://get-crypto-pulse.web.app"
+            "url": "https://get-crypto-pulse.web.app",
+            "imageUrl": "https://lh3.googleusercontent.com/f2zJwB0CseL79a7YeLJS8c6gyxfdsQYOX7iv0WELFQuSMu6rh6a-qpiLDKZQu35qvKksupumP6MBrWqfr58sQ7hLTtc=s60"
         }
     }
 }
